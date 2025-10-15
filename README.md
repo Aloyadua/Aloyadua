@@ -22,6 +22,7 @@
 
 <br>
 
+- 🚀 Meu Nome é Miguel Motzkus Câmara
 - 👋 Olá! Sou estudante de Full Stack em aprendizado.
 - 💻 Tenho conhecimento básico de C#, e estou explorando cada vez mais o mundo do desenvolvimento.
 - 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
