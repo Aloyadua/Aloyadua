@@ -8,19 +8,17 @@
 <br>
 
 
-![giphy (1)](https://github.com/user-attachments/assets/6ca38a83-4ca6-4f0f-965c-05986c68d0d1)
+![Chillhop-JeffOstbergGIF](https://github.com/user-attachments/assets/42a1cc7d-2a50-438b-a225-eebfec7ccd65)
 
 
-
-	
 ## <picture><img src = "https://github.com/Nebulotico/Nebulotico/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Nebulotico/Nebulotico/blob/main/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- 👋 Olá! Sou estudante de Full Stack em constante aprendizado.
-- 💻 Tenho conhecimento básico de C# e estou explorando cada vez mais o mundo do desenvolvimento.
+- 👋 Olá! Sou estudante de Full Stack em aprendizado.
+- 💻 Tenho conhecimento básico de C#, e estou explorando cada vez mais o mundo do desenvolvimento.
 - 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
 
 <br><br>
