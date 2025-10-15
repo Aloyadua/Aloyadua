@@ -1,6 +1,6 @@
-<img align="center">
+
  ![Chillhop-JeffOstbergGIF](https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26)
-</img>
+
 
 <p align="center">
   <a href="https://github.com/Aloyadua"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&duration=2500&pause=1000&color=FFD3D3DC&center=true&vCenter=true&width=435&lines=+%F0%9F%94%92+Bem-Vindo+Ao+Meu+Perfil!+%F0%9F%94%92;%F0%9F%8E%92+Estudo+no+Senac+Destrito+Criativo+%F0%9F%8E%92;...;%F0%9F%92%BE+Front-End+Developer+em+Progresso...+%F0%9F%92%BE" alt="Typing SVG" /></a>
