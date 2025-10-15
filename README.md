@@ -6,8 +6,9 @@
 
 <br>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26" width="100%">
+  <img src="https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26" width="100%" height="50%">
 </p>
 
 
