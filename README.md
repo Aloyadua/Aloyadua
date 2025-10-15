@@ -8,7 +8,7 @@
 <br>
 
 
-![giphy](https://github.com/user-attachments/assets/ea77d160-ef2e-4431-99a9-55309462327d)
+
 
 
 	
