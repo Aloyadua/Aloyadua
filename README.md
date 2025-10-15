@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Aloyadua"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&duration=2500&pause=1000&color=5909FFDC&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile!;Study+at+Senac+Destrito+Criativo;Front-end+developer+in+progress...+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://github.com/Aloyadua"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&duration=2500&pause=1000&color=FF1B1BDC&center=true&vCenter=true&width=435&lines=+%F0%9F%94%92+Bem-Vindo+Ao+Meu+Perfil!+%F0%9F%94%92;%F0%9F%8E%92+Estudo+no+Senac+Destrito+Criativo+%F0%9F%8E%92;...;%F0%9F%92%BE+Front-End+Developer+em+Progresso...+%F0%9F%92%BE" alt="Typing SVG" /></a>
 </p>
 
 
@@ -16,8 +16,9 @@
 
 <br>
 
-- A passionate Self-taught Full-stack developer
-- Playing CTF's at spare time
+- 👋 Olá! Sou estudante de Full Stack em constante aprendizado.
+- 💻 Tenho conhecimento básico de C# e estou explorando cada vez mais o mundo do desenvolvimento.
+- 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
 
 <br><br>
 
