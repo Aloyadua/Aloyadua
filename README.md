@@ -8,7 +8,8 @@
 <br>
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97c1ed30-955e-4c87-a97a-929827225667" />
+![giphy](https://github.com/user-attachments/assets/ea77d160-ef2e-4431-99a9-55309462327d)
+
 
 	
 ## <picture><img src = "https://github.com/Nebulotico/Nebulotico/blob/main/about_me.gif" width = 50px></picture> **About me**
