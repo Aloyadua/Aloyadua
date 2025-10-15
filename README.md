@@ -1,5 +1,5 @@
 
- ![Chillhop-JeffOstbergGIF](https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26)
+
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <br>
 
-
+ ![Chillhop-JeffOstbergGIF](https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26)
 
 
 ## <picture><img src = "https://github.com/Nebulotico/Nebulotico/blob/main/about_me.gif" width = 50px></picture> **About me**
