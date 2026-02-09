@@ -70,7 +70,7 @@
      width="375"  
      alt="Aloyadua"/>
 <a href="https://github.com/Aloyadua/">
- 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=5B0CF7&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Aloyadua-Core+;Organization" alt="Typing SVG" /></a>
 </a>
 
 </div>
