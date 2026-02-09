@@ -65,11 +65,6 @@
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aloyadua&show_icons=true&locale=en&layout=compact&line_height=20&title_color=670f22&icon_color=670F22&text_color=101921&bg_color=F5F2E7" 
-     width="375"  
-     alt="Aloyadua"/>
-<a href="https://github.com/Aloyadua/">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=5B0CF7&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Aloyadua-Core+;Organization" alt="Typing SVG" /></a>
 </a>
 
