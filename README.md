@@ -22,9 +22,10 @@
 
 <br>
 
-- 🚨 Meu Nome é Miguel 
+- 🚨 Meu Vulgo é Aloyadua 
 - 👋 Olá! Sou estudante de Full Stack em aprendizado.
 - 💻 Tenho conhecimento básico de C#, e estou explorando cada vez mais o mundo do desenvolvimento.
+- 🤖 Testes de automação e desenvolvimento de bots 
 - 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
 
 <br><br>
