@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D50000&center=true&vCenter=true&width=500&lines=Aloyadua-Core" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D50000&center=true&vCenter=true&width=500&lines=%F0%9F%A4%A1AloyaduaCore%F0%9F%A4%A1" alt="Typing SVG" /></a>
 </p>
 
 
