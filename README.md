@@ -1,15 +1,13 @@
 <p align="center">
-  <a href="./banner.svg">Banner Aloyadua</a>
+  <a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/banner.svg">Banner Aloyadua</a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    Typing SVG Animation
-  </a>
+  <a href="https://git.io/typing-svg">Typing SVG Animation</a>
 </p>
 
 <p align="center">
-  <a href="./visualizer.svg">Audio Visualizer</a>
+  <a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/visualizer.svg">Audio Visualizer</a>
 </p>
 
 <p align="center">
@@ -17,14 +15,12 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aloyadua&style=flat-square&color=8B1E3F&label=PROFILE+VIEWS">
-    Profile Views Counter
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=aloyadua&style=flat-square&color=8B1E3F&label=PROFILE+VIEWS">Profile Views Counter</a>
 </p>
 
 ---
 
-<a href="./profile.png">Profile Picture of Aloyadua</a>
+<a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/profile.png">Profile Picture of Aloyadua</a>
 
 **Developer in training**
 
@@ -38,4 +34,5 @@ Also experienced with **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**, **
 ◈  Class    →  Java / Android Apprentice
 ◈  Origin   →  Brazil
 ◈  Path     →  Open Source
-◈  Build    →  Logic
+◈  Build    →  Logic / Creativity
+◈  Status   →  Learning. Creating. Evolving.
