@@ -1,77 +1,42 @@
-
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2250&pause=100&color=D50000&center=true&vCenter=true&random=true&width=500&lines=%F0%9F%A4%A1+;%F0%9F%8E%AD;%F0%9F%A4%A1++AloyaduaCore++%F0%9F%A4%A1;%F0%9F%8E%AD;%F0%9F%A4%A1+;%F0%9F%94%92+0+1+0+0+1+1+0+1+%F0%9F%94%92;Num+quidquam+horum+verum+esse+potest%3F" alt="Typing SVG" /></a>
+  <img src="./banner.svg" alt="Banner Aloyadua" width="100%" />
 </p>
 
-
-<br>
-
-
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/0d6c55df-1cd9-46b0-b1f5-b63f97ef4c26" 
-    width="100%" 
-  >
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=F4F7FB&center=true&vCenter=true&width=900&lines=The+world+is+yours.;Developer+in+training+%7C+Linux+enthusiast+%7C+Studying+Java;Java+%7C+Android+%7C+Web+Development;Code.+Learn.+Build.+Repeat." alt="Animated text" />
+  </a>
 </p>
 
-
-
-## <picture><img src = "https://github.com/Nebulotico/Nebulotico/blob/main/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/Nebulotico/Nebulotico/blob/main/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- 🚨 Meu Vulgo é Aloyadua 
-- 👋 Olá! Sou estudante de Full Stack em aprendizado.
-- 💻 Tenho conhecimento básico de C#, e estou explorando cada vez mais o mundo do desenvolvimento.
-- 🤖 Testes de automação e desenvolvimento de bots 
-- 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-    
 <p align="center">
-
-- **Front-End Development**:
-
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Softwares and Tools**:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <img src="./visualizer.svg" alt="Audio visualizer" width="75%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/aloyadua">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<br>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aloyadua&style=flat-square&color=8B1E3F&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<img align="right" src="./profile.png" width="230" alt="Profile picture of Aloyadua" />
 
+**Developer in training**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+> *"Code, learn, fail, fix, and evolve."*
 
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=5B0CF7&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Aloyadua-Core+;Organization" alt="Typing SVG" /></a>
-</a>
+Currently deepening knowledge in **Java**, **Object-Oriented Programming**, **Web Development**, and **Android**, applying these skills in personal projects, studies, and practical tools.
 
-</div>
+Also experienced with **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**, **Linux**, and always exploring new technologies to grow as a developer.
 
-<br>
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```txt
+◈  Class    →  Java / Android Apprentice
+◈  Origin   →  Brazil
+◈  Path     →  Open Source
+◈  Build    →  Logic / Creativity
+◈  Status   →  Learning. Creating. Evolving.
