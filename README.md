@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/banner.svg">Banner Aloyadua</a>
+  <img href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/banner.svg">Banner Aloyadua</img>
 </p>
 
 <p align="center">
