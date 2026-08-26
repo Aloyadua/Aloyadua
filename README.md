@@ -1,30 +1,39 @@
 <p align="center">
-  <img href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/banner.svg">Banner Aloyadua</img>
+  <img src="./banner.svg" alt="Banner Aloyadua" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">Typing SVG Animation</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B1E3F&center=true&vCenter=true&width=500&lines=Developer+in+training;Java+%2F+Android+Apprentice;Learning.+Creating.+Evolving."
+       alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/visualizer.svg">Audio Visualizer</a>
+  <img src="./visualizer.svg" alt="Audio Visualizer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/aloyadua">GitHub Profile</a>
+  <a href="https://github.com/aloyadua">
+    <img src="https://img.shields.io/badge/GitHub-Aloyadua-181717?style=flat-square&logo=github"
+         alt="GitHub Profile">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aloyadua&style=flat-square&color=8B1E3F&label=PROFILE+VIEWS">Profile Views Counter</a>
+  <img src="https://komarev.com/ghpvc/?username=aloyadua&style=flat-square&color=8B1E3F&label=PROFILE+VIEWS"
+       alt="Profile Views">
 </p>
 
 ---
 
-<a href="https://github.com/MiguelCamMtz/MiguelCamMtz/blob/main/profile.png">Profile Picture of Aloyadua</a>
+<p align="center">
+  <img src="./profile.png" alt="Profile Picture of Aloyadua" width="180">
+</p>
 
-**Developer in training**
+<h3 align="center">Developer in training</h3>
 
-> *"Code, learn, fail, fix, and evolve."*
+<p align="center">
+  <i>"Code, learn, fail, fix, and evolve."</i>
+</p>
 
 Currently deepening knowledge in **Java**, **Object-Oriented Programming**, **Web Development**, and **Android**, applying these skills in personal projects, studies, and practical tools.
 
