@@ -13,13 +13,6 @@
   >
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MiguelCamMtz/MiguelCamMtz/main/visualizer.svg"
-    alt="Audio Visualizer"
-    width="100%"
-  >
-</p>
 
 <p align="center">
   <a href="https://github.com/aloyadua">
