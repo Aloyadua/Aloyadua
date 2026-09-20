@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MiguelCamMtz/MiguelCamMtz/main/banner.svg"
-    alt="Banner Aloyadua"
-    width="100%"
-  >
-</p>
+
 
 <p align="center">
   <img
