@@ -32,13 +32,6 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MiguelCamMtz/MiguelCamMtz/main/profile.png"
-    alt="Profile Picture of Aloyadua"
-    width="180"
-  >
-</p>
 
 <h3 align="center">Developer in training</h3>
 
